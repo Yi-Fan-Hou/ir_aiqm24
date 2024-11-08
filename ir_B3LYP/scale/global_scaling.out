@@ -1,0 +1,21 @@
+Maximum PCC: 0.7929834446975625
+Fitting to PCC
+Optimal scaling factor: 0.957
+Averaged PCC: 0.7929834446975625
+Averaged SCC: 0.8278452875632363
+Averaged SIS: 0.8442137669906767
+Averaged PCC (unscaled): 0.2542466083889167
+Averaged SCC (unscaled): 0.6876701142374458
+Averaged SIS (unscaled): 0.5697444286195376
+Maximum SCC: 0.8284213497662465
+Fitting to SCC
+Optimal scaling factor: 0.959
+Averaged PCC: 0.7911856726559856
+Averaged SCC: 0.8284213497662465
+Averaged SIS: 0.843133256584895
+Maximum SIS: 0.8442137669906767
+Fitting to SIS
+Optimal scaling factor: 0.957
+Averaged PCC: 0.7929834446975625
+Averaged SCC: 0.8278452875632363
+Averaged SIS: 0.8442137669906767
